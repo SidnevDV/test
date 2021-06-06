@@ -2,5 +2,5 @@
 ## Executing tests
 
 - run ```npm install```
-- run test ```npm test```
-- generate report ```npm generate:report```
+- run test ```npm run test```
+- generate report ```npm run generate:report```
